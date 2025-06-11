@@ -45,7 +45,7 @@ Compile and source your workspace:
 
 ```bash
 cd ~/ros2_ws
-colcon build --packages-select ros2_control
+colcon build --packages-select rb1_ros2_description
 source install/setup.bash
 ```
 
